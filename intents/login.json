@@ -1,0 +1,43 @@
+{
+  "id": "3211e424-366e-4858-b0b9-6d520bb6be7a",
+  "name": "login",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "login-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "500e17c9-a69b-4ce8-be9a-9000384c88de",
+          "required": false,
+          "dataType": "@email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Based on our data, if you have trouble logging in, you might not have activated your email.\nDid you activate your email?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533363883,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "57623586-7e61-473b-89f7-fa3b49750d4b",
+  "name": "my email is not working",
+  "auto": true,
+  "contexts": [
+    "service"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "service",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bf3b0b1b-adb2-4e80-9ea1-a728158e54bf",
+          "required": false,
+          "dataType": "",
+          "name": "mail",
+          "isList": false
+        },
+        {
+          "id": "7506e776-e4e5-47af-a4f2-0caa888217d5",
+          "required": false,
+          "dataType": "@email",
+          "name": "email",
+          "value": "$email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "based on our data if your email is not working, its highly likely you have not activated your account, have you tried activating your account ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533355025,
+  "fallbackIntent": false,
+  "events": []
+}

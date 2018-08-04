@@ -1,0 +1,33 @@
+{
+  "id": "0cbd0331-3d0e-41fd-a045-d7c6387c444b",
+  "parentId": "66c78c68-eecc-4462-a3d1-d148dd96a228",
+  "rootParentId": "3211e424-366e-4858-b0b9-6d520bb6be7a",
+  "name": "login - no - custom",
+  "auto": true,
+  "contexts": [
+    "login-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "login.login-no.login-no-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "great ! we have sent you another email, hopefully that would fix it"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533363983,
+  "fallbackIntent": false,
+  "events": []
+}
