@@ -1,4 +1,6 @@
 # tickets-ai
 AngelHack Dubai 2018
 
-<img src = "tickets.jpg" width = 500>
+<img src = "tickets.jpg" width = 400>
+
+Connect this to the ZenDesk API, and face those repetitive customer calls less.
