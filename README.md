@@ -9,7 +9,7 @@ if a customer comes up with the same problem again, so the customer service agen
 **Example:**
 
 >🙍🏻‍♂️: Hi, I am unable to login
-</br>>👩🏻‍💼:Customer Service: Please activate your account
+</br>👩🏻‍💼:Customer Service: Please activate your account
 
 >🙍🏻‍♂️: Hi, I am unable to login
 </br>🤖>: Please try activating your account
@@ -21,7 +21,7 @@ further allowing the tickets to automatically be grouped and sent to the respect
 **Example:**
 
 >🙍🏻‍♂️: Please Resend my invoice
-</br>>👩🏻‍💼: Alright sending your request to the accounts department
+</br>👩🏻‍💼: Alright sending your request to the accounts department
 
 >🙍🏻‍♂️: Please Resend my invoice
-</br>>TicketsAI(🤖): Looks like an invoice problem we need to send this to the accounts department.
+</br>TicketsAI(🤖): Looks like an invoice problem we need to send this to the accounts department.
