@@ -1,7 +1,7 @@
 
 <img src = "tickets.jpg" width = 400>
 
-ticket.ai is a bot that you can integrate into customer service live chat as well as ticketing systems like Zendesk which can help you do two things:
+<b>ticket.ai</b> is a bot that you can integrate into customer service live chat as well as ticketing systems like Zendesk which can help you do two things:
 
 1. It can analyze chats between customers and customer service representatives, store earlier solutions and swoop into the conversation
 if a customer comes up with the same problem again, so the customer service agents don't have to repeat a solution they have already provided
